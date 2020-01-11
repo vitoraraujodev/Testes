@@ -7,5 +7,7 @@ tmp/*
 __tests__/*
 !__tests__/util/
 !__tests__/integration/
+!factories.js
+
 
 dist
