@@ -4,4 +4,7 @@ node_modules
 tmp/*
 !tmp/.gitkeep
 
+__tests__/
+!integration
+
 dist
